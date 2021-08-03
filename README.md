@@ -15,7 +15,7 @@ This template can be used as a starter kit for the <a href="https://cloudnativet
 
 In this sample application, you will create a Java cloud-native application using Liberty. This provides a starting point for creating Java web applications running on [Open Liberty](https://openliberty.io/). It contains no default application code, but comes with standard best practices, including a health check.
 
-This application exposes the following endpoints:
+This application exposes the following end points:
 
 * Health endpoint: `<host>:<port>/health`
 * Web content: `<host>:<port>/<contextRoot>`
